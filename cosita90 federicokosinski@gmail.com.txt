@@ -1,0 +1,3 @@
+Ejercicio 2
+Indique que utiliza para clonar este repositorio al Repositorio Remoto
+"Utilizamos la Opcion Publish Branch para clonar el repositorio al repositorio Remoto"
