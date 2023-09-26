@@ -1,0 +1,6 @@
+1- Abrir GifHub Desktop
+2- Hacer Click en Current repository/add/create new repository
+3- Cambiar nombre y Hacer Click en "Crear repository"
+4- Hacer Click en "Publish repository"
+5- Hacer Click en Current repository/add/clone repository
+6- Seleccionar el repositorio a clonar y elegir directorio donde sera clonado
